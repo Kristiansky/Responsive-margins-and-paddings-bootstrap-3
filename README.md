@@ -2,7 +2,7 @@
 Responsive Margins and Paddings for Bootstrap 3
 
 # bootstrap-theme.css and bootstrap.css contain the GRID LAYOUT OF BOOTSTRAP 3 ONLY!
-<link rel="stylesheet" type="text/css" href="/path/to/css/margins-and-paddings.css"/>
+# link rel="stylesheet" type="text/css" href="/path/to/css/margins-and-paddings.css"
 Example:
 
 <div class="row">
