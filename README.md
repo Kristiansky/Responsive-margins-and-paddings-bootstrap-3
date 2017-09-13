@@ -14,16 +14,30 @@ Example:
 Breakpoints are as follows:
 
 .m-xs-??
+
 .p-xs-??
+
 @media (min-width: 768px) {
+
 	.m-sm-??
+	
 	.p-sm-??
+	
 }
+
 @media (min-width: 992px) {
+
 	.m-md-??
+	
 	.p-md-??
+	
 }
+
 @media (min-width: 1200px) {
+
 	.m-lg-??
+	
 	.p-lg-??
+	
 }
+
