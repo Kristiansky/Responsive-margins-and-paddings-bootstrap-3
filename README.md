@@ -1,8 +1,7 @@
 # Responsive-margins-and-paddings-bootstrap-3
-Responsive Margins and Paddings for Bootstrap 3
 
-# The bootstrap.css file contains the GRID LAYOUT OF BOOTSTRAP 3 ONLY!
-# link rel="stylesheet" type="text/css" href="/path/to/css/margins-and-paddings.css"
+## The bootstrap.css file contains the GRID LAYOUT OF BOOTSTRAP 3 ONLY!
+### `<link rel="stylesheet" type="text/css" href="/path/to/css/margins-and-paddings.css"/>`
 Example:
 
 `<div class="row">`
@@ -33,11 +32,17 @@ Breakpoints are as follows:
 `}`
 
 `@media (min-width: 992px) {`
+
 `	.m-md-??`
+
 `	.p-md-??`
-`}`
-`@media (min-width: 1200px) {`
-`	.m-lg-??`
-`	.p-lg-??`
+
 `}`
 
+`@media (min-width: 1200px) {`
+
+`	.m-lg-??`
+
+`	.p-lg-??`
+
+`}`
