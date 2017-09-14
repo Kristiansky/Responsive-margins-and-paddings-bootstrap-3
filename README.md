@@ -5,17 +5,17 @@ Responsive Margins and Paddings for Bootstrap 3
 # link rel="stylesheet" type="text/css" href="/path/to/css/margins-and-paddings.css"
 Example:
 
-<div class="row">
-	<div class="col-xs-12 col-md-6 m-xs-10 m-md-5">
-	</div>
-	<div class="col-xs-12 col-md-6 m-xs-10 m-md-5">
-	</div>
-</div>
+`<div class="row">`
+`	<div class="col-xs-12 col-md-6 m-xs-10 m-md-5">`
+`	</div>`
+`	<div class="col-xs-12 col-md-6 m-xs-10 m-md-5">`
+`	</div>`
+`</div>`
 
 ---------------------------------------------------
 Breakpoints are as follows:
 
-.m-xs-??
+`.m-xs-??
 
 .p-xs-??
 
@@ -41,5 +41,5 @@ Breakpoints are as follows:
 	
 	.p-lg-??
 	
-}
+}`
 
